@@ -1,3 +1,9 @@
+This Repo is completely cloned from externel resources
+video reference is as below.
+
+https://www.youtube.com/watch?v=sNEoSgc12eE
+
+
 # Bootstrap RKE Kubernetes Cluster in AWS Environment
 This repository contains source code to bootstrap an RKE Kubernetes cluster in AWS with a single command, provided you have met all the prerequisites and followed the initial configuration steps. 
 
